@@ -1,0 +1,54 @@
+body{
+    background-color: #383938;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    padding: 10px;
+    border: black solid 4px;
+    width: 600px;
+    background-color: #149c68;
+    border-radius: 25px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    font-family: "Bricolage Grotesque";
+    height: auto;
+     
+
+    
+}
+
+.titulo{
+    background-color: #38c958;
+    color: #FFFEDB;
+    height: 80px;
+    width: 120px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    border-radius: 25px;
+    margin-bottom: 30px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+    border: 1px solid black;
+
+}
+.imagen{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.descripcion{
+    background-color: #38c958;
+    color: #FFFEDB;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    border-radius: 25px;
+    padding: auto;
+    font-size: 30px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+    border: 1px solid black;
+}
